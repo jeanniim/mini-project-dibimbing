@@ -1,0 +1,92 @@
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+  
+.header-style {
+ background: linear-gradient(-90deg, #e0bfb8, antiquewhite);
+}
+
+.alert {
+color: black;
+font-size: medium;
+padding: 10px;
+}
+
+.alert:hover {
+  color: red;
+}
+
+.sidebar-style {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.form-control-sm {
+  width: 110px;
+}
+
+.radio-check {
+  padding-top: 10px;
+}
+
+.content-style {
+  background-color: white;
+  padding-top: 10px;
+  padding: 5px;
+  justify-content: space-evenly;
+}
+
+.card {
+margin-right: 30px;
+}
+
+.card-style {
+  background-color: floralwhite;
+  font-weight: 200;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.rating {
+  text-decoration-line: none;
+  color: yellow;
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+footer {
+  background: linear-gradient(90deg, #e0bfb8, antiquewhite)
+}
+
+.footer {
+  padding-top: 15px;
+  padding-bottom: 6px;
+}
+
+.button {
+  background-color: black;
+  margin-bottom: 25px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+}
+
+.about {
+ background-color:rgba(162,217,255,0.5);
+}
+
+.breadcrumb {
+  padding-left: 30px;
+}
